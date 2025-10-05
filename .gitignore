@@ -1,0 +1,40 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.zip
+*.log
+*.tmp
+
+# === Virtual Environment ===
+chatbot-fiqih-env/
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# === Streamlit & Cache ===
+.streamlit/
+.cache/
+.stcache/
+stcache/
+
+# === API Keys / Secrets ===
+.env
+*.env
+*.key
+*.json
+
+# === Jupyter / VSCode / Misc ===
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# === Model & Vector Store ===
+# vectorstore/*.faiss
+# vectorstore/*.pkl
+# data_pdfs/*.pdf

@@ -1,0 +1,8 @@
+pypdf
+faiss-cpu
+streamlit
+google-generativeai
+langchain>=0.2.10
+langgraph>=0.0.30
+langchain-community>=0.2.10
+langchain-google-genai>=2.0.0
