@@ -134,18 +134,6 @@ Jika tidak, chatbot akan berpindah ke mode **Fallback** (pengetahuan umum LLM).
 
 ---
 
-## 🧪 Debug Mode
-- Sidebar menampilkan:
-  - Jumlah vektor & dokumen di index
-  - Model embedding
-  - Parameter internal (`TOP_K`, `RELEVANCE_THR`)
-- Setiap jawaban memiliki tab **🔎 Debug retrieval** berisi:
-  - Skor kemiripan (`max_sim`)
-  - Halaman sumber
-  - Cuplikan teks dari kitab yang digunakan untuk menjawab
-
----
-
 ## 📚 Teknologi yang Digunakan
 | Komponen | Fungsi |
 |-----------|---------|
@@ -156,12 +144,3 @@ Jika tidak, chatbot akan berpindah ke mode **Fallback** (pengetahuan umum LLM).
 | **Streamlit** | Antarmuka web interaktif |
 
 ---
-
-## 🧑‍💻 Pengembang
-**Apip — Hacktiv8 Final Project (2025)**  
-> Chatbot Fiqih | Belajar ilmu fiqih lebih mudah dengan AI ✨
-
----
-
-## 🪶 Lisensi
-MIT License © 2025 — bebas digunakan untuk riset dan edukasi.
