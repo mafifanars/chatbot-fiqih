@@ -38,10 +38,9 @@ CHATBOT-FIQIH/
 ### 🪜 1. Clone repository
 Pastikan sudah install `git`, lalu jalankan:
 ```bash
-git clone https://github.com/<username>/chatbot-fiqih.git
+git clone https://github.com/mafifanars/chatbot-fiqih.git
 cd chatbot-fiqih
 ```
-> Ganti `<username>` dengan nama akun GitHub kamu.
 
 ---
 
